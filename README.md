@@ -1,1 +1,1 @@
-# chess-predictor
+# csc422-chess
